@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testAltarix</string>
+    <string name="fragment1">Список точек</string>
+    <string name="fragment2">Карта</string>
+    <string name="btnStart">Старт</string>
+    <string name="btnStop">Стоп</string>
+    <string name="longitude">Долгота: </string>
+    <string name="latitude">Широта: </string>
+
+</resources>
